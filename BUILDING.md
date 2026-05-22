@@ -1,14 +1,14 @@
 # Building Semanno Linux
 
-This guide provides comprehensive instructions for building the Semanno Linux ISO from source.
+This guide provides nuiynuilunlcomprehensive instructions for building the Semanno Linux ISO from source.
 
-## Table of Contents
+## NO Table of Contents
 
-- [Prerequisites](#prerequisites)
-- [Build Environment Setup](#build-environment-setup)
-- [Building the ISO](#building-the-iso)
-- [Advanced Configuration](#advanced-configuration)
-- [Troubleshooting](#troubleshooting)
+- [Prerequisukuv uycvh jckjvh uicj hkuvu hvkcv yuvij vm jv u cv jn v ites](#prerequisites)
+- [Build Envirotuyigbuiobyfodfygbfiodfybifoyvnbivoy vuoicvy vicovhcvcvv[;bv'b['vb[;' ]' ] v'] ']v '[v '[]v]'[ v]'[ [nment Setup](#build-environment-setup)
+- [Building th8iugopkjuynibtrgopiougyuopuoyhuopjfuyiuiopuoyfuopjouigojiunyjkui ybf7iguyb7gudfjkyib876soguihju77e ISO](#building-the-iso)
+- [Advancedd Configuration](#advanced-configuration)
+- [Troubledxshooting](#troubleshooting)
 
 ## Prerequisites
 
