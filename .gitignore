@@ -1,0 +1,66 @@
+# .gitignore for Semanno Linux build system
+
+# Build directories
+build/
+work/
+out/
+
+# Temporary files
+*.tmp
+*.log
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ISO files (too large)
+*.iso
+*.iso.md5
+*.iso.sha256
+
+# Build artifacts
+*.tar.gz
+*.tar.xz
+*.tar
+*.zip
+
+# Pacman cache
+pacman-cache/
+*.pkg.tar*
+
+# Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.vim/
+.netrwhist
+
+# OS-specific
+.AppleDouble
+.LSOverride
+ehthumbs.db
+desktop.ini
+
+# Credentials (if any)
+.env
+.env.local
+secrets/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Node (if used for scripts)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Generated checksums (only at build time)
+# *.sha256
+# *.md5
